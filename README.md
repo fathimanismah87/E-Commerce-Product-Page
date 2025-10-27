@@ -1,1 +1,3 @@
 # E-Commerce-Product-Page
+Description:
+This E-Commerce Project is a web application that allows users to browse, search, and purchase products online. It includes essential features such as user registration, login, product listing, shopping cart, and secure checkout. The system is designed to provide a smooth shopping experience with an easy-to-use interface and responsive design for both customers and admins.
